@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014589661348560896",
+        "3_2014589661340192768"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014589677588955317",
+    "created_at": "2026-01-23T06:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014589677588955317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIWbwBKDEl",
+          "end": 129,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2014589677588955317/photo/1",
+          "media_key": "3_2014589661348560896",
+          "start": 106,
+          "url": "https://t.co/pIWbwBKDEl"
+        },
+        {
+          "display_url": "pic.x.com/pIWbwBKDEl",
+          "end": 129,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2014589677588955317/photo/1",
+          "media_key": "3_2014589661340192768",
+          "start": 106,
+          "url": "https://t.co/pIWbwBKDEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014589677588955317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界是一个分裂的世界…\n这样的人令人悲伤，但是请大家不要接近…一个长久被痛苦异化的人，只会像黑洞一样把别人也扯下去。\n如果有什么痛苦要倾诉的话，可以向我倒垃圾…\n我会尽力做点什么的。无论如何，谁都值得被爱。 https://t.co/pIWbwBKDEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014589661348560896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VCn4zbAAAmJcZ.jpg",
+        "width": 307
+      },
+      {
+        "height": 555,
+        "media_key": "3_2014589661340192768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VCn4xbUAAQ-iw.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014589661348560896",
+            "3_2014589661340192768"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014589677588955317",
+        "created_at": "2026-01-23T06:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014589677588955317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIWbwBKDEl",
+              "end": 129,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2014589677588955317/photo/1",
+              "media_key": "3_2014589661348560896",
+              "start": 106,
+              "url": "https://t.co/pIWbwBKDEl"
+            },
+            {
+              "display_url": "pic.x.com/pIWbwBKDEl",
+              "end": 129,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2014589677588955317/photo/1",
+              "media_key": "3_2014589661340192768",
+              "start": 106,
+              "url": "https://t.co/pIWbwBKDEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014589677588955317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界是一个分裂的世界…\n这样的人令人悲伤，但是请大家不要接近…一个长久被痛苦异化的人，只会像黑洞一样把别人也扯下去。\n如果有什么痛苦要倾诉的话，可以向我倒垃圾…\n我会尽力做点什么的。无论如何，谁都值得被爱。 https://t.co/pIWbwBKDEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交友…｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜https://t.co/7Qm6JtEnhB |有什么不高兴的可以找我倾诉! |tg：https://t.co/5kLEQoTlFF |话说回来真的好想要个对象啊…但是我连朋友都没什么",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 54,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 31,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 98,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 75,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "Aureliax17🍥",
+        "pinned_tweet_id": "2011799739944353881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 125,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2027365408249163969",
+    "created_at": "2026-02-28T09:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027680189606727722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777127815558975488",
+          "start": 0,
+          "username": "946552143544k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027680189606727722",
+    "in_reply_to_user_id": "1777127815558975488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027365408249163969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@946552143544k 抱抱…欢迎回来哦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2027365408249163969",
+        "created_at": "2026-02-28T09:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027680189606727722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777127815558975488",
+              "start": 0,
+              "username": "946552143544k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027680189606727722",
+        "in_reply_to_user_id": "1777127815558975488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027365408249163969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@946552143544k 抱抱…欢迎回来哦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777127815558975488",
+        "conversation_id": "2027365408249163969",
+        "created_at": "2026-02-27T12:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027365408249163969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027365408249163969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3669,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀失败了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |复活了 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 209,
+          "like_count": 3189,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 535
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-08T00:14:40.000Z",
+        "description": "@tsukiumiRyue，2009.03.11，16岁xyn，QQ2805256852，hrt2025.10.29，intj/isfp，mtf，流浪貓，大猫咪@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "tsukiumiRyue"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "x16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1777127815558975488",
+        "name": "鎮命🍥2026",
+        "pinned_tweet_id": "2025896000704123148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008707303386857472/OU3Tl8gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 516,
+          "like_count": 15767,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 430
+        },
+        "username": "946552143544k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023983317696344064"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2023984786360979792",
+    "created_at": "2026-02-18T04:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:50:03.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023983327061979381",
+      "2023984786360979792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MgeFtsd6E",
+          "end": 81,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2023984786360979792/photo/1",
+          "media_key": "3_2023983317696344064",
+          "start": 58,
+          "url": "https://t.co/3MgeFtsd6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023984786360979792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是有人知道17在喝什么的话将会获得的20.26元红包！\n没有人猜中的话将会在评论和转发中抽取！（是酸奶加上某物） https://t.co/3MgeFtsd6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2023983317696344064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaiGpqbcAA87OC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023983317696344064"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023983327061979381",
+        "created_at": "2026-02-18T04:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:50:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023983327061979381",
+          "2023984786360979792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQU8su2Xjr",
+              "end": 72,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2023983327061979381/photo/1",
+              "media_key": "3_2023983317696344064",
+              "start": 49,
+              "url": "https://t.co/ZQU8su2Xjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023983327061979381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是有人知道17在喝什么的话将会获得的20.26元红包！\n没有人猜中的话将会在评论和转发中抽取！ https://t.co/ZQU8su2Xjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023983317696344064"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023984786360979792",
+        "created_at": "2026-02-18T04:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:50:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023983327061979381",
+          "2023984786360979792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MgeFtsd6E",
+              "end": 81,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2023984786360979792/photo/1",
+              "media_key": "3_2023983317696344064",
+              "start": 58,
+              "url": "https://t.co/3MgeFtsd6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023984786360979792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是有人知道17在喝什么的话将会获得的20.26元红包！\n没有人猜中的话将会在评论和转发中抽取！（是酸奶加上某物） https://t.co/3MgeFtsd6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtDPs3 |没事可以tg找我说话|tg：https://t.co/vzTjEqAHa9 |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 51,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 28,
+                "url": "https://t.co/7Qm6JtDPs3"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 90,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 67,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 151,
+          "like_count": 1905,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 173
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

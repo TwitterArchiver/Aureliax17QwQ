@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2015267445741863039",
+    "created_at": "2026-01-25T03:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T04:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015267445741863039"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015267445741863039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年是回外公外婆家过年\n唯一给我过无条件的爱的地方\n 这种爱让我无从适应…我习惯了被冷暴力、抛弃\n但是在老家，我不被要求什么，可以躺在屋里玩手机，也可以去田野瞎逛，零食永远吃不完\n这无条件的爱太难了，所以我知道它的珍贵\n我也会尽力来爱和帮助大家！这份爱，也是无条件的❤️我爱的，是人的本身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2015267445741863039",
+        "created_at": "2026-01-25T03:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015267445741863039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015267445741863039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年是回外公外婆家过年\n唯一给我过无条件的爱的地方\n 这种爱让我无从适应…我习惯了被冷暴力、抛弃\n但是在老家，我不被要求什么，可以躺在屋里玩手机，也可以去田野瞎逛，零食永远吃不完\n这无条件的爱太难了，所以我知道它的珍贵\n我也会尽力来爱和帮助大家！这份爱，也是无条件的❤️我爱的，是人的本身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交友…｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜https://t.co/7Qm6JtEnhB |有什么不高兴的可以找我倾诉! |tg：https://t.co/5kLEQoTlFF |话说回来真的好想要个对象啊…但是我连朋友都没什么",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 54,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 31,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 98,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 75,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "Aureliax17🍥",
+        "pinned_tweet_id": "2011799739944353881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 123,
+          "like_count": 1351,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 98
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

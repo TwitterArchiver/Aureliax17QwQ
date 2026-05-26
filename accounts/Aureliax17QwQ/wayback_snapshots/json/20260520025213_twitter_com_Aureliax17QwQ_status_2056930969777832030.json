@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2056930969777832030",
+    "created_at": "2026-05-20T02:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056930969777832030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056930969777832030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "两个药娘在机场见面，一个奶子特别大，一个奶子特别小。\n\n奶子小的问：你怎么奶子这么大？\n我去啃草坪，遇到了特朗普，特朗普问我为什么吃草坪，我说因为我买药饿的没钱了，然后特朗普大手一挥包了我所有花销\n\n小奶子的第二天也去啃草坪，遇到了近平，近平看她问你为啥吃草坪，然后她说：我买药了，没钱吃饭了。\n近平大手一挥，于是干预中心的人过来把她抓走，然后近平摆手说：你放心，里面的草坪更嫩。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个药娘在机场见面，一个奶子特别大，一个奶子特别小。\n\n奶子小的问：你怎么奶子这么大？\n我去啃草坪，遇到了特朗普，特朗普问我为什么吃草坪，我说因为我买药饿的没钱了，然后特朗普大手一挥包了我所有花销"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2056930969777832030",
+        "created_at": "2026-05-20T02:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056930969777832030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056930969777832030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "两个药娘在机场见面，一个奶子特别大，一个奶子特别小。\n\n奶子小的问：你怎么奶子这么大？\n我去啃草坪，遇到了特朗普，特朗普问我为什么吃草坪，我说因为我买药饿的没钱了，然后特朗普大手一挥包了我所有花销\n\n小奶子的第二天也去啃草坪，遇到了近平，近平看她问你为啥吃草坪，然后她说：我买药了，没钱吃饭了。\n近平大手一挥，于是干预中心的人过来把她抓走，然后近平摆手说：你放心，里面的草坪更嫩。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个药娘在机场见面，一个奶子特别大，一个奶子特别小。\n\n奶子小的问：你怎么奶子这么大？\n我去啃草坪，遇到了特朗普，特朗普问我为什么吃草坪，我说因为我买药饿的没钱了，然后特朗普大手一挥包了我所有花销"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 677,
+          "like_count": 6578,
+          "listed_count": 6,
+          "media_count": 346,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2015443208176820333",
+    "created_at": "2026-01-25T15:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015443208176820333"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015443208176820333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在意识终于清醒了…\n中午好像就开始模糊了，拿剪刀开箱子结果剪的是手指头…\n下午直接断片了一个小时\n然后被电话吵醒后心悸和胸口不适呢\n总算是恢复了(´-ω-`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2015443208176820333",
+        "created_at": "2026-01-25T15:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015443208176820333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015443208176820333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在意识终于清醒了…\n中午好像就开始模糊了，拿剪刀开箱子结果剪的是手指头…\n下午直接断片了一个小时\n然后被电话吵醒后心悸和胸口不适呢\n总算是恢复了(´-ω-`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交友…｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜https://t.co/7Qm6JtEnhB |有什么不高兴的可以找我倾诉! |tg：https://t.co/5kLEQoTlFF |话说回来真的好想要个对象啊…但是我连朋友都没什么",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 54,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 31,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 98,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 75,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "Aureliax17🍥",
+        "pinned_tweet_id": "2011799739944353881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 123,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 101
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046902013305438208",
+        "3_2046902013309698049"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046902024160391571",
+    "created_at": "2026-04-22T10:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046902024160391571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y72FZApMZQ",
+          "end": 35,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2046902024160391571/photo/1",
+          "media_key": "3_2046902013305438208",
+          "start": 12,
+          "url": "https://t.co/Y72FZApMZQ"
+        },
+        {
+          "display_url": "pic.x.com/Y72FZApMZQ",
+          "end": 35,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2046902024160391571/photo/1",
+          "media_key": "3_2046902013309698049",
+          "start": 12,
+          "url": "https://t.co/Y72FZApMZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046902024160391571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当咒术回战联动麦当劳： https://t.co/Y72FZApMZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2046902013305438208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgOiUEaQAAYEKq.jpg",
+        "width": 1066
+      },
+      {
+        "height": 837,
+        "media_key": "3_2046902013309698049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgOiUFbQAEjDLV.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046902013305438208",
+            "3_2046902013309698049"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046902024160391571",
+        "created_at": "2026-04-22T10:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046902024160391571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y72FZApMZQ",
+              "end": 35,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2046902024160391571/photo/1",
+              "media_key": "3_2046902013305438208",
+              "start": 12,
+              "url": "https://t.co/Y72FZApMZQ"
+            },
+            {
+              "display_url": "pic.x.com/Y72FZApMZQ",
+              "end": 35,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2046902024160391571/photo/1",
+              "media_key": "3_2046902013309698049",
+              "start": 12,
+              "url": "https://t.co/Y72FZApMZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046902024160391571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当咒术回战联动麦当劳： https://t.co/Y72FZApMZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 647,
+          "like_count": 6473,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

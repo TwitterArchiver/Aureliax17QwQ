@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020774112147435520"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2020774119298781596",
+    "created_at": "2026-02-09T08:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020774119298781596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ct2S7k1EQs",
+          "end": 71,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2020774119298781596/photo/1",
+          "media_key": "3_2020774112147435520",
+          "start": 48,
+          "url": "https://t.co/Ct2S7k1EQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020774119298781596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xyn将前往武汉和对象的年前旅游！\n当然是要用郊狼狠狠电击对象😈\n（不要问我为什么一堆精品神药 https://t.co/Ct2S7k1EQs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020774112147435520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAs7WTXacAAti2t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020774112147435520"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2020774119298781596",
+        "created_at": "2026-02-09T08:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020774119298781596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ct2S7k1EQs",
+              "end": 71,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2020774119298781596/photo/1",
+              "media_key": "3_2020774112147435520",
+              "start": 48,
+              "url": "https://t.co/Ct2S7k1EQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020774119298781596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xyn将前往武汉和对象的年前旅游！\n当然是要用郊狼狠狠电击对象😈\n（不要问我为什么一堆精品神药 https://t.co/Ct2S7k1EQs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜https://t.co/7Qm6JtEnhB |有什么不高兴的可以找我倾诉! |tg：https://t.co/5kLEQoTlFF |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 44,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 21,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 88,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 65,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 128,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 107
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

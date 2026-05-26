@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2034480087987548403",
+    "created_at": "2026-03-19T05:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T06:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034497752143626513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935582910217912320",
+          "start": 0,
+          "username": "ameyorui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034497752143626513",
+    "in_reply_to_user_id": "1935582910217912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034489263463837921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameyorui 谢谢…🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2034480087987548403",
+        "created_at": "2026-03-19T05:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034497752143626513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935582910217912320",
+              "start": 0,
+              "username": "ameyorui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034497752143626513",
+        "in_reply_to_user_id": "1935582910217912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034489263463837921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameyorui 谢谢…🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935582910217912320",
+        "conversation_id": "2034480087987548403",
+        "created_at": "2026-03-19T04:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034489263463837921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034489263463837921",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034480087987548403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 不要自责呀，你已经做的很好了，也要自己歇歇哦💐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜炸柜了｜没事可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 92,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 69,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 236,
+          "like_count": 4661,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1088
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T06:19:07.000Z",
+        "description": "在虚无与幻灭中刻下属于自己的痕迹吧。🌿无性人偶🍃浮世/荒诞/凄美/交融/戏剧性缥缈 🍥与你相遇亦是缘 (回消息会慢些",
+        "id": "1935582910217912320",
+        "location": "乐园",
+        "name": "雨夜兰陵行路人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935583269468110849/1rP4Zh0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 1867,
+          "like_count": 11392,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 172
+        },
+        "username": "ameyorui",
+        "verified": false
+      }
+    ]
+  }
+}

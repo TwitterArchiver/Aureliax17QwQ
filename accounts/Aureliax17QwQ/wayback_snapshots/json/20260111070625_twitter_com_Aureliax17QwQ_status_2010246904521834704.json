@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2010187858301333856",
+    "created_at": "2026-01-11T07:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010246904521834704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010246904521834704",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010187858301333856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2010187858301333856",
+        "created_at": "2026-01-11T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010246904521834704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010246904521834704",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010187858301333856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314388633869152259",
+        "conversation_id": "2010187858301333856",
+        "created_at": "2026-01-11T03:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010187858301333856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "药娘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010187858301333856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人在乎我，关心我，好孤单😭\n好想有一个真正的爱我的人陪伴我的人，无时无刻回复的人 #药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "",
+        "id": "1611246341728120835",
+        "name": "Aureliax17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 112,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重130唉（绝食魔爪减肥中）😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，社恐，梦想是成为可爱的女孩子~药娘\n同类免🚪15.20好友位V/Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxi52013",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoxi52013",
+                "start": 0,
+                "url": "https://t.co/FiOMeYQkCS"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1996992269686349850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 73,
+          "like_count": 9,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/FiOMeYQkCS",
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

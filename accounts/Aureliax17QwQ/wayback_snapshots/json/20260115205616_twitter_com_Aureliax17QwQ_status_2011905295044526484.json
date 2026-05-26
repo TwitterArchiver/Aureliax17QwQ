@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2011905295044526484",
+    "created_at": "2026-01-15T20:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T21:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011905295044526484"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011905295044526484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实药娘和无籽西瓜是一样的原理。\n我们都是一种被人工干预的生物。\n失去了繁殖能力，换到了“皮薄、香甜、美味”的优良性状。\n所以我很好吃！？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2011905295044526484",
+        "created_at": "2026-01-15T20:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T21:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011905295044526484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011905295044526484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实药娘和无籽西瓜是一样的原理。\n我们都是一种被人工干预的生物。\n失去了繁殖能力，换到了“皮薄、香甜、美味”的优良性状。\n所以我很好吃！？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交盆友…｜mtf🏳️‍⚧️｜重抑｜还活着｜INFP｜ADHD｜https://t.co/vzTjEqAHa9｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 61,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 38,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "Aureliax17🍥",
+        "pinned_tweet_id": "2011799739944353881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 121,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

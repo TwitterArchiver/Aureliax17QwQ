@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2025078147973284003",
+    "created_at": "2026-02-21T05:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025078147973284003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "385760660",
+          "start": 3,
+          "username": "psyofsouthwest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025078147973284003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023905668571558055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psyofsouthwest: 大型网商购买亚硝酸钠已经可以很好地监控了，不过公安这几年还不够努力，自杀阻断还要加大力度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2025078147973284003",
+        "created_at": "2026-02-21T05:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025078147973284003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "385760660",
+              "start": 3,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025078147973284003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023905668571558055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psyofsouthwest: 大型网商购买亚硝酸钠已经可以很好地监控了，不过公安这几年还不够努力，自杀阻断还要加大力度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2023905668571558055",
+        "created_at": "2026-02-17T23:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023905668571558055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhh84672361/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/hhh84672361/status/2023016268287365152",
+              "start": 45,
+              "url": "https://t.co/FPtbzbOGy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023905668571558055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023016268287365152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大型网商购买亚硝酸钠已经可以很好地监控了，不过公安这几年还不够努力，自杀阻断还要加大力度 https://t.co/FPtbzbOGy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 71,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 48,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 110,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 87,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 170,
+          "like_count": 2179,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 232
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 4567,
+          "like_count": 81467,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 13137
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      }
+    ]
+  }
+}

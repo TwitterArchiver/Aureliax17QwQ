@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022137132639526912",
+        "3_2022137133302185984"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2022137354161623321",
+    "created_at": "2026-02-13T02:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022137354161623321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9uJ1cdNoN6",
+          "end": 28,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2022137354161623321/photo/1",
+          "media_key": "3_2022137132639526912",
+          "start": 5,
+          "url": "https://t.co/9uJ1cdNoN6"
+        },
+        {
+          "display_url": "pic.x.com/9uJ1cdNoN6",
+          "end": 28,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2022137354161623321/photo/1",
+          "media_key": "3_2022137133302185984",
+          "start": 5,
+          "url": "https://t.co/9uJ1cdNoN6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022137354161623321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵… https://t.co/9uJ1cdNoN6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2022137132639526912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBATAiYbIAAEUKe.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2022137133302185984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBATAk2agAAxGZh.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022137132639526912",
+            "3_2022137133302185984"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2022137354161623321",
+        "created_at": "2026-02-13T02:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022137354161623321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uJ1cdNoN6",
+              "end": 28,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2022137354161623321/photo/1",
+              "media_key": "3_2022137132639526912",
+              "start": 5,
+              "url": "https://t.co/9uJ1cdNoN6"
+            },
+            {
+              "display_url": "pic.x.com/9uJ1cdNoN6",
+              "end": 28,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2022137354161623321/photo/1",
+              "media_key": "3_2022137133302185984",
+              "start": 5,
+              "url": "https://t.co/9uJ1cdNoN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022137354161623321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵… https://t.co/9uJ1cdNoN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话|tg：https://t.co/5kLEQoTlFF |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 51,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 28,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 90,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 67,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 134,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 123
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058766460110139392",
+        "3_2058766460034691072",
+        "3_2058766460043120640",
+        "3_2058766460043096064"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058766467647394274",
+    "created_at": "2026-05-25T04:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058766467647394274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ehf5QonylM",
+          "end": 36,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+          "media_key": "3_2058766460110139392",
+          "start": 13,
+          "url": "https://t.co/ehf5QonylM"
+        },
+        {
+          "display_url": "pic.x.com/ehf5QonylM",
+          "end": 36,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+          "media_key": "3_2058766460034691072",
+          "start": 13,
+          "url": "https://t.co/ehf5QonylM"
+        },
+        {
+          "display_url": "pic.x.com/ehf5QonylM",
+          "end": 36,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+          "media_key": "3_2058766460043120640",
+          "start": 13,
+          "url": "https://t.co/ehf5QonylM"
+        },
+        {
+          "display_url": "pic.x.com/ehf5QonylM",
+          "end": 36,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+          "media_key": "3_2058766460043096064",
+          "start": 13,
+          "url": "https://t.co/ehf5QonylM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058766467647394274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就乐意看独角仙偷方便面 https://t.co/ehf5QonylM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2058766460110139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1MApacAAlNK9.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1550,
+        "media_key": "3_2058766460034691072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1MAXbMAA7US_.jpg",
+        "width": 1281
+      },
+      {
+        "height": 1533,
+        "media_key": "3_2058766460043120640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1MAZb0AAFM-Z.jpg",
+        "width": 1289
+      },
+      {
+        "height": 1559,
+        "media_key": "3_2058766460043096064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1MAZbcAAqqP2.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058766460110139392",
+            "3_2058766460034691072",
+            "3_2058766460043120640",
+            "3_2058766460043096064"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058766467647394274",
+        "created_at": "2026-05-25T04:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058766467647394274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehf5QonylM",
+              "end": 36,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+              "media_key": "3_2058766460110139392",
+              "start": 13,
+              "url": "https://t.co/ehf5QonylM"
+            },
+            {
+              "display_url": "pic.x.com/ehf5QonylM",
+              "end": 36,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+              "media_key": "3_2058766460034691072",
+              "start": 13,
+              "url": "https://t.co/ehf5QonylM"
+            },
+            {
+              "display_url": "pic.x.com/ehf5QonylM",
+              "end": 36,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+              "media_key": "3_2058766460043120640",
+              "start": 13,
+              "url": "https://t.co/ehf5QonylM"
+            },
+            {
+              "display_url": "pic.x.com/ehf5QonylM",
+              "end": 36,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2058766467647394274/photo/1",
+              "media_key": "3_2058766460043096064",
+              "start": 13,
+              "url": "https://t.co/ehf5QonylM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058766467647394274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就乐意看独角仙偷方便面 https://t.co/ehf5QonylM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 688,
+          "like_count": 6602,
+          "listed_count": 7,
+          "media_count": 373,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

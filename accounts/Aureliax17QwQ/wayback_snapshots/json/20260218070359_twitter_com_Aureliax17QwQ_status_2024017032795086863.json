@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024017025342001152"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2024017032795086863",
+    "created_at": "2026-02-18T07:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024017032795086863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/klXNzf7WWI",
+          "end": 96,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2024017032795086863/photo/1",
+          "media_key": "3_2024017025342001152",
+          "start": 73,
+          "url": "https://t.co/klXNzf7WWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024017032795086863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自杀不是解脱，只是结束。仅此而已。\n我会在我有限的时间里好好爱世界上的所有人\n陌生人，看见这些请不要伤心。不要因为一两支花的凋落而错过别的美好。 https://t.co/klXNzf7WWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024017025342001152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbAwsbaUAAfT48.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024017025342001152"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2024017032795086863",
+        "created_at": "2026-02-18T07:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024017032795086863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/klXNzf7WWI",
+              "end": 96,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2024017032795086863/photo/1",
+              "media_key": "3_2024017025342001152",
+              "start": 73,
+              "url": "https://t.co/klXNzf7WWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024017032795086863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀不是解脱，只是结束。仅此而已。\n我会在我有限的时间里好好爱世界上的所有人\n陌生人，看见这些请不要伤心。不要因为一两支花的凋落而错过别的美好。 https://t.co/klXNzf7WWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtDPs3 |没事可以tg找我说话|tg：https://t.co/vzTjEqAHa9 |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 51,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 28,
+                "url": "https://t.co/7Qm6JtDPs3"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 90,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 67,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 151,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

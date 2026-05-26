@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2026933440944431400",
+    "created_at": "2026-02-26T08:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026940921598849075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827053984521318400",
+          "start": 0,
+          "username": "C_baba_66ccff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026940921598849075",
+    "in_reply_to_user_id": "1827053984521318400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026933440944431400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_baba_66ccff 揉🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026933432987824128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEdN9iaMAAEwkn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2026933440944431400",
+        "created_at": "2026-02-26T08:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026940921598849075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827053984521318400",
+              "start": 0,
+              "username": "C_baba_66ccff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026940921598849075",
+        "in_reply_to_user_id": "1827053984521318400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026933440944431400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_baba_66ccff 揉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026933432987824128"
+          ]
+        },
+        "author_id": "1827053984521318400",
+        "conversation_id": "2026933440944431400",
+        "created_at": "2026-02-26T08:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026933440944431400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5nNN8Msm0",
+              "end": 27,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/2026933440944431400/photo/1",
+              "media_key": "3_2026933432987824128",
+              "start": 4,
+              "url": "https://t.co/K5nNN8Msm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026933440944431400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被晶了 https://t.co/K5nNN8Msm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |还活着 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 201,
+          "like_count": 2921,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 394
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜小证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜重抑重焦｜wota藝初心者｜锦依卫｜洛天依｜停电前夜｜最好的闺蜜@hongjiu_armin｜小号@C_baba_tianyi｜可爱猫猫对象@AGeSang2008喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "hongjiu_armin"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/C_baba_tianyi0…",
+                "end": 23,
+                "expanded_url": "http://t.me/C_baba_tianyi0712",
+                "start": 0,
+                "url": "https://t.co/J8u13x28mK"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2020509877383393497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 862,
+          "like_count": 20831,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/J8u13x28mK",
+        "username": "C_baba_66ccff",
+        "verified": true
+      }
+    ]
+  }
+}

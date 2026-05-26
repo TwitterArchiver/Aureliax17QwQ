@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057004502327455744"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2057004510493765683",
+    "created_at": "2026-05-20T07:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057004510493765683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qfLQxXrY3x",
+          "end": 28,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2057004510493765683/photo/1",
+          "media_key": "3_2057004502327455744",
+          "start": 5,
+          "url": "https://t.co/qfLQxXrY3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057004510493765683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃啊～！ https://t.co/qfLQxXrY3x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2057004502327455744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvyskabcAAllcH.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057004502327455744"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2057004510493765683",
+        "created_at": "2026-05-20T07:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057004510493765683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfLQxXrY3x",
+              "end": 28,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2057004510493765683/photo/1",
+              "media_key": "3_2057004502327455744",
+              "start": 5,
+              "url": "https://t.co/qfLQxXrY3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057004510493765683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊～！ https://t.co/qfLQxXrY3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 677,
+          "like_count": 6579,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

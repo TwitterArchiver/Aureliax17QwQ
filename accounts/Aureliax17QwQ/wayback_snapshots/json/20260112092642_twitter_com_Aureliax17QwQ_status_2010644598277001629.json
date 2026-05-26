@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010644588034433024"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2010644598277001629",
+    "created_at": "2026-01-12T09:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010644598277001629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f03PdFRoFo",
+          "end": 37,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2010644598277001629/photo/1",
+          "media_key": "3_2010644588034433024",
+          "start": 14,
+          "url": "https://t.co/f03PdFRoFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010644598277001629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是以前做的超级多酱料披萨！ https://t.co/f03PdFRoFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010644588034433024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-c-mZdaoAAGc8r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010644588034433024"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010644598277001629",
+        "created_at": "2026-01-12T09:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010644598277001629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f03PdFRoFo",
+              "end": 37,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2010644598277001629/photo/1",
+              "media_key": "3_2010644588034433024",
+              "start": 14,
+              "url": "https://t.co/f03PdFRoFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010644598277001629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是以前做的超级多酱料披萨！ https://t.co/f03PdFRoFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "",
+        "id": "1611246341728120835",
+        "name": "Aureliax17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 111,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

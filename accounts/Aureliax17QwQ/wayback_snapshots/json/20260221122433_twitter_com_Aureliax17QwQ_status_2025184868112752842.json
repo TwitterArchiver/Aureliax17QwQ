@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2025075221888467062",
+    "created_at": "2026-02-21T12:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025184868112752842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1756700660089909248",
+          "start": 0,
+          "username": "www373214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025184868112752842",
+    "in_reply_to_user_id": "1756700660089909248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025182083736641961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@www373214 很难死掉的……\n不过我想过回头试试艾斯唑仑，思诺思，普瑞巴林，喹硫平，替扎尼定一块吃\n运气好的话死的掉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2025075221888467062",
+        "created_at": "2026-02-21T12:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025184868112752842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1756700660089909248",
+              "start": 0,
+              "username": "www373214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025184868112752842",
+        "in_reply_to_user_id": "1756700660089909248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025182083736641961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@www373214 很难死掉的……\n不过我想过回头试试艾斯唑仑，思诺思，普瑞巴林，喹硫平，替扎尼定一块吃\n运气好的话死的掉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756700660089909248",
+        "conversation_id": "2025075221888467062",
+        "created_at": "2026-02-21T12:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025182083736641961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025182083736641961",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025075221888467062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 苯二氮卓类吃一把然后睡觉 多简单。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 71,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 48,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 110,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 87,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 171,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 248
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-11T15:24:32.000Z",
+        "description": "想穿过镜子，去斜阳下的彼岸                                           \nまだ生きてる——ただ、まだ 死んでいないから                        \n  不吃一部分动物的肉（有感情的能思考的 除非它们已经无依无靠），讨厌性欲食欲，讨厌天性，讨厌努力，努力无欲无求",
+        "id": "1756700660089909248",
+        "name": "ww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919008344305766400/FUaT0gph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 424
+        },
+        "username": "www373214",
+        "verified": false
+      }
+    ]
+  }
+}

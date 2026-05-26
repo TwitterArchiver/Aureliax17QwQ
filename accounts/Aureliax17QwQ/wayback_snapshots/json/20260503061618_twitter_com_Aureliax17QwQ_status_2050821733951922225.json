@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050821712804212736"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2050821733951922225",
+    "created_at": "2026-05-03T06:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050821733951922225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRwDVWYCIH",
+          "end": 38,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2050821733951922225/photo/1",
+          "media_key": "3_2050821712804212736",
+          "start": 15,
+          "url": "https://t.co/GRwDVWYCIH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050821733951922225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "动漫角色的性别belike： https://t.co/GRwDVWYCIH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2050821712804212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHX7e2lacAAvDSZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050821712804212736"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2050821733951922225",
+        "created_at": "2026-05-03T06:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050821733951922225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRwDVWYCIH",
+              "end": 38,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2050821733951922225/photo/1",
+              "media_key": "3_2050821712804212736",
+              "start": 15,
+              "url": "https://t.co/GRwDVWYCIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050821733951922225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "动漫角色的性别belike： https://t.co/GRwDVWYCIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2050197049195594047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 675,
+          "like_count": 6519,
+          "listed_count": 4,
+          "media_count": 253,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

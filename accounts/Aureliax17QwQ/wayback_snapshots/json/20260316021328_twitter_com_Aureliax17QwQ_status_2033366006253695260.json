@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033366001530863616"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2033366006253695260",
+    "created_at": "2026-03-16T02:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033366006253695260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s414HUOuMd",
+          "end": 82,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2033366006253695260/photo/1",
+          "media_key": "3_2033366001530863616",
+          "start": 59,
+          "url": "https://t.co/s414HUOuMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033366006253695260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起17让大家伤心了…\n17算是被对象威胁训了一顿\n呜呜…17以后再想自我毁灭我就去o个大的\no大了我就不干傻事了 https://t.co/s414HUOuMd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2033366001530863616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf3muuagAAs9G4.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033366001530863616"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2033366006253695260",
+        "created_at": "2026-03-16T02:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033366006253695260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s414HUOuMd",
+              "end": 82,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2033366006253695260/photo/1",
+              "media_key": "3_2033366001530863616",
+              "start": 59,
+              "url": "https://t.co/s414HUOuMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033366006253695260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起17让大家伤心了…\n17算是被对象威胁训了一顿\n呜呜…17以后再想自我毁灭我就去o个大的\no大了我就不干傻事了 https://t.co/s414HUOuMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜炸柜了｜没事可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 91,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 68,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 234,
+          "like_count": 4478,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1021
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2058445758266028048",
+    "created_at": "2026-05-24T09:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058484986786050329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1625403583649705986",
+          "start": 0,
+          "username": "yuxo0004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058484986786050329",
+    "in_reply_to_user_id": "1625403583649705986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058445758266028048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxo0004 我要买！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2058445758266028048",
+        "created_at": "2026-05-24T09:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058484986786050329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625403583649705986",
+              "start": 0,
+              "username": "yuxo0004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058484986786050329",
+        "in_reply_to_user_id": "1625403583649705986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058445758266028048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxo0004 我要买！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625403583649705986",
+        "conversation_id": "2058445758266028048",
+        "created_at": "2026-05-24T07:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058445758266028048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuxo0004/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yuxo0004/status/2058445243985645585",
+              "start": 36,
+              "url": "https://t.co/Cm1eUGEt0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058445758266028048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058445243985645585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我现在现生比较忙 没空o了 而且就算o我也吃港美 这些留着屁用没有 https://t.co/Cm1eUGEt0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 687,
+          "like_count": 6598,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-14T07:56:41.000Z",
+        "description": "🇨🇳🇯🇵od自伤/友跨 顺女/ 泛性恋 /穿孔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxo0004",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxo0004",
+                "start": 0,
+                "url": "https://t.co/6mDH8HZhIL"
+              }
+            ]
+          }
+        },
+        "id": "1625403583649705986",
+        "location": "2.7km",
+        "name": "郁子",
+        "pinned_tweet_id": "1827744049031413935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784337849749590016/5XfvtNA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 410,
+          "like_count": 4375,
+          "listed_count": 7,
+          "media_count": 566,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/6mDH8HZhIL",
+        "username": "yuxo0004",
+        "verified": false
+      }
+    ]
+  }
+}

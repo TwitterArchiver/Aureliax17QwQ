@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2027332659060568369",
+    "created_at": "2026-02-27T14:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027388472512942414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1931286995420295168",
+          "start": 0,
+          "username": "Jian_Yao_Ivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027388472512942414",
+    "in_reply_to_user_id": "1931286995420295168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027388034115850303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jian_Yao_Ivy 唔…味道这个东西，很难形容呢…\n等下回再发刷牙用的棉签看看能不能尝试形容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2027332659060568369",
+        "created_at": "2026-02-27T14:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027388472512942414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1931286995420295168",
+              "start": 0,
+              "username": "Jian_Yao_Ivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027388472512942414",
+        "in_reply_to_user_id": "1931286995420295168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027388034115850303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jian_Yao_Ivy 唔…味道这个东西，很难形容呢…\n等下回再发刷牙用的棉签看看能不能尝试形容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931286995420295168",
+        "conversation_id": "2027332659060568369",
+        "created_at": "2026-02-27T14:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027388034115850303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027388034115850303",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027387780851261695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 誒？牙膏味的形容還能是什麼味？好奇👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |复活了 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 206,
+          "like_count": 3021,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 437
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-07T09:48:28.000Z",
+        "description": "（厄就不姓溫好嗎⋯⋯ ）可以叫我简单 女switch一枚，只網调，线下想都别想（如果是漂亮姐姐的话，我必做sub！！！）",
+        "id": "1931286995420295168",
+        "name": "有一只小喵温瑤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952644763246858240/B3ZRyl-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 119,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 351
+        },
+        "username": "Jian_Yao_Ivy",
+        "verified": false
+      }
+    ]
+  }
+}

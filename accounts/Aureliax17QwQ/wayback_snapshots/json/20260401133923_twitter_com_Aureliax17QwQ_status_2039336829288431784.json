@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2039184742852202902",
+    "created_at": "2026-04-01T13:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039336829288431784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729137634956722177",
+          "start": 0,
+          "username": "Starry_SkyWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039336829288431784",
+    "in_reply_to_user_id": "1729137634956722177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039336233185562975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_SkyWorld 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2039184742852202902",
+        "created_at": "2026-04-01T13:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039336829288431784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1729137634956722177",
+              "start": 0,
+              "username": "Starry_SkyWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039336829288431784",
+        "in_reply_to_user_id": "1729137634956722177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039336233185562975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_SkyWorld 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729137634956722177",
+        "conversation_id": "2039184742852202902",
+        "created_at": "2026-04-01T13:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039336233185562975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039336233185562975",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039184742852202902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 都好可爱耶（烧烤）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜🏳️‍⚧️｜06｜重抑｜INFP｜已炸柜｜💊｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最爱的小孩@dnshu135734｜我永远爱你们❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 95,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 72,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 243,
+          "like_count": 5504,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-27T13:59:51.000Z",
+        "description": "From the developer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amethyst.ltd",
+                "end": 23,
+                "expanded_url": "https://amethyst.ltd",
+                "start": 0,
+                "url": "https://t.co/QKaXB3NIut"
+              }
+            ]
+          }
+        },
+        "id": "1729137634956722177",
+        "location": "China",
+        "name": "StarrySkyWorld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856213419093045252/s2coBM_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/QKaXB3NIut",
+        "username": "Starry_SkyWorld",
+        "verified": false
+      }
+    ]
+  }
+}

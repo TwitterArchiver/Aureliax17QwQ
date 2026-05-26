@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2043200473541365831",
+    "created_at": "2026-04-12T07:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043226584266801366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819236845429182465",
+          "start": 0,
+          "username": "web3usb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043226584266801366",
+    "in_reply_to_user_id": "1819236845429182465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043200473541365831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@web3usb 互关谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2043200473541365831",
+        "created_at": "2026-04-12T07:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043226584266801366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819236845429182465",
+              "start": 0,
+              "username": "web3usb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043226584266801366",
+        "in_reply_to_user_id": "1819236845429182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043200473541365831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@web3usb 互关谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819236845429182465",
+        "conversation_id": "2043200473541365831",
+        "created_at": "2026-04-12T05:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043200473541365831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/web3usb/status…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/web3usb/status/2043051167429558609",
+              "start": 76,
+              "url": "https://t.co/cLYWTQowWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043200473541365831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1497,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043051167429558609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟们！        \n\n如果你是蓝v！        \n\n评论区留言        \n\n我来关注\n\n中推互关极限就是我这种\n\n鬼佬比例应该低于1% https://t.co/cLYWTQowWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 534,
+          "like_count": 6246,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1666
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T05:00:52.000Z",
+        "description": "全球金融行情独立研究员，贴文不可作为投资建议，看到的点关注就对了，联系Tg:web3uabx，微信:stfw1991\n\n【you follow me\nI follow you back】",
+        "id": "1819236845429182465",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "司徒猎奇",
+        "pinned_tweet_id": "2038794859813949507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018058924331507712/tblO90ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29678,
+          "following_count": 17077,
+          "like_count": 7116,
+          "listed_count": 50,
+          "media_count": 873,
+          "tweet_count": 17744
+        },
+        "username": "web3usb",
+        "verified": true
+      }
+    ]
+  }
+}

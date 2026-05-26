@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2024994398979981803",
+    "created_at": "2026-02-21T05:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025078096131751975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1514911156888084480",
+          "start": 0,
+          "username": "TMS_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025078096131751975",
+    "in_reply_to_user_id": "1514911156888084480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024994398979981803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TMS_CN 但是不准要👊😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2024994398979981803",
+        "created_at": "2026-02-21T05:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025078096131751975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1514911156888084480",
+              "start": 0,
+              "username": "TMS_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025078096131751975",
+        "in_reply_to_user_id": "1514911156888084480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024994398979981803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TMS_CN 但是不准要👊😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514911156888084480",
+        "conversation_id": "2024994398979981803",
+        "created_at": "2026-02-20T23:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T00:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024994398979981803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxian1527/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/maoxian1527/status/2024765352991941027",
+              "start": 11,
+              "url": "https://t.co/Qu70zAxsoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024994398979981803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024765352991941027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁有亚硝酸钠求求了🙀 https://t.co/Qu70zAxsoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 71,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 48,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 110,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 87,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 170,
+          "like_count": 2179,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 231
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-15T10:19:18.000Z",
+        "description": "但是，“替代”么...\n唯独这个，我不能接受。\n绝对不是那样的。\n正事请看 @mcucst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "mcucst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "silvicky.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://silvicky.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/ZB2HPPouEV"
+              }
+            ]
+          }
+        },
+        "id": "1514911156888084480",
+        "location": "我们哪都不去...",
+        "name": "sil vk🖲❤️💜💛",
+        "pinned_tweet_id": "1978480889798799663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608877406349328386/KbL4ohqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9136,
+          "following_count": 4615,
+          "like_count": 81203,
+          "listed_count": 16,
+          "media_count": 68,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/ZB2HPPouEV",
+        "username": "TMS_CN",
+        "verified": false
+      }
+    ]
+  }
+}

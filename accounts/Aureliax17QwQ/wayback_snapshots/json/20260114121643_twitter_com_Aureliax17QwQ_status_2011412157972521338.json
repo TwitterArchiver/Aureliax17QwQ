@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011412146446630912"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2011412157972521338",
+    "created_at": "2026-01-14T12:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T13:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011412157972521338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+          "display_url": "infinitetweet.me/dumb-ways-to-d…",
+          "end": 39,
+          "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2010219724517658624/x7gFcWh-?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010219724517658624/x7gFcWh-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Dumb Ways to Die • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "url": "https://t.co/6Lakx7wJSb"
+        },
+        {
+          "display_url": "pic.x.com/AGYSeqfw9U",
+          "end": 63,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2011412157972521338/photo/1",
+          "media_key": "3_2011412146446630912",
+          "start": 40,
+          "url": "https://t.co/AGYSeqfw9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011412157972521338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/6Lakx7wJSb https://t.co/AGYSeqfw9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2011412146446630912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-n4sLXbgAAEogX.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011412146446630912"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2011412157972521338",
+        "created_at": "2026-01-14T12:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T13:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011412157972521338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010219724517658624/x7gFcWh-?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010219724517658624/x7gFcWh-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/6Lakx7wJSb"
+            },
+            {
+              "display_url": "pic.x.com/AGYSeqfw9U",
+              "end": 63,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2011412157972521338/photo/1",
+              "media_key": "3_2011412146446630912",
+              "start": 40,
+              "url": "https://t.co/AGYSeqfw9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011412157972521338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/6Lakx7wJSb https://t.co/AGYSeqfw9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交盆友…｜mtf🏳️‍⚧️｜重抑｜还活着｜infp｜https://t.co/vzTjEqAHa9(虽然没人来但是先挂这)｜欢迎来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 56,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 33,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "Aureliax17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 127,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 67
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

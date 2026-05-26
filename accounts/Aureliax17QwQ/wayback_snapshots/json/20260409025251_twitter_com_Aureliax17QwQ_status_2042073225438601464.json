@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2041803553824444650",
+    "created_at": "2026-04-09T02:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042073225438601464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2016775266585264128",
+          "start": 0,
+          "username": "aGJAXx8ooQ2747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042073225438601464",
+    "in_reply_to_user_id": "2016775266585264128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041803553824444650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aGJAXx8ooQ2747 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2041803553824444650",
+        "created_at": "2026-04-09T02:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042073225438601464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2016775266585264128",
+              "start": 0,
+              "username": "aGJAXx8ooQ2747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042073225438601464",
+        "in_reply_to_user_id": "2016775266585264128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041803553824444650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aGJAXx8ooQ2747 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016775266585264128",
+        "conversation_id": "2041803553824444650",
+        "created_at": "2026-04-08T09:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041803553824444650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041803553824444650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 213,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些天我花在X上的时间不少，帖子也很积极的发，但是新增加关注的粉丝还是非常的少，目前刚刚突破100个。\n\n反思一下，互关是第一步，别人100多万的粉丝都在搞互关，我为什么不能搞。等基础粉丝流量起来再说。\n\n诚信互关，留言互关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf｜06｜重抑｜INFP｜已炸柜｜💊｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最爱的小孩@dnshu135734｜永远爱你们❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 93,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 70,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 288,
+          "like_count": 6054,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-29T07:28:16.000Z",
+        "description": "看看奇妙的世界。\n10年大A老韭菜，转向全球视野，定投特斯拉和比特币。分享投资经验避免踩坑。",
+        "id": "2016775266585264128",
+        "name": "Caesar Xiao",
+        "pinned_tweet_id": "2041803553824444650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035982436400857089/SnDka7ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 322,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 224
+        },
+        "username": "aGJAXx8ooQ2747",
+        "verified": true
+      }
+    ]
+  }
+}

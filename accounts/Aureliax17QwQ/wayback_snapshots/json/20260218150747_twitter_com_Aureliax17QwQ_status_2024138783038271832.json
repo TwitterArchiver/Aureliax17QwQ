@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2024017032795086863",
+    "created_at": "2026-02-18T15:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024138783038271832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780642673713356800",
+          "start": 0,
+          "username": "zhsy211427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024138783038271832",
+    "in_reply_to_user_id": "1780642673713356800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024131825795223708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhsy211427 不要紫砂…摸摸…如果真的很难受或着过得不好来找我说说话，至少17活着的时候很乐意帮大家一把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2024017032795086863",
+        "created_at": "2026-02-18T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024138783038271832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780642673713356800",
+              "start": 0,
+              "username": "zhsy211427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024138783038271832",
+        "in_reply_to_user_id": "1780642673713356800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024131825795223708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhsy211427 不要紫砂…摸摸…如果真的很难受或着过得不好来找我说说话，至少17活着的时候很乐意帮大家一把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780642673713356800",
+        "conversation_id": "2024017032795086863",
+        "created_at": "2026-02-18T14:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024131825795223708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024131825795223708",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024017032795086863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 我不想吃这些，打算自己套个塑料袋就好了（虽然样子不太好看qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtDPs3 |没事可以tg找我说话|tg：https://t.co/vzTjEqAHa9 |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 51,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 28,
+                "url": "https://t.co/7Qm6JtDPs3"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 90,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 67,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 153,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 179
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-17T17:01:27.000Z",
+        "description": "|我重新好了,开始新的生活|多功能画手|会搞抽象|会安慰人|性别未知🏳️‍⚧️|每天开始自律生活|不负韶华|一起加油一起努力!!!|欢迎互fo| ||",
+        "id": "1780642673713356800",
+        "name": "咕咕不哭🍥",
+        "pinned_tweet_id": "1960748936685347232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960638562615091203/yhGVtsW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 135,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 272
+        },
+        "username": "zhsy211427",
+        "verified": false
+      }
+    ]
+  }
+}

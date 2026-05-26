@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2038525454865543276",
+    "created_at": "2026-03-30T07:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038525454865543276"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038525454865543276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的情况是\n17找到了很好的医院的心理咨询师\n不仅价格很便宜（半个小时60块，一个小时90），而且lgbt友好！甚至还能帮我劝家长！！！\n（计划回头分享到mtfwiki）\n\n但是心理咨询师的规矩是我hrt的话，开始心理咨询前必须经过正规内分泌咨询。\n\n可是西安没办法正规hrt（\n目前卡在这里了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2038525454865543276",
+        "created_at": "2026-03-30T07:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038525454865543276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038525454865543276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的情况是\n17找到了很好的医院的心理咨询师\n不仅价格很便宜（半个小时60块，一个小时90），而且lgbt友好！甚至还能帮我劝家长！！！\n（计划回头分享到mtfwiki）\n\n但是心理咨询师的规矩是我hrt的话，开始心理咨询前必须经过正规内分泌咨询。\n\n可是西安没办法正规hrt（\n目前卡在这里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜炸柜了｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 96,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 73,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 242,
+          "like_count": 5200,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1282
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

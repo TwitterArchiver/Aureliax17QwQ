@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2024789134985015762",
+    "created_at": "2026-02-20T10:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024797600130744687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982450015927971840",
+          "start": 0,
+          "username": "xichuan412888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024797600130744687",
+    "in_reply_to_user_id": "1982450015927971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024789134985015762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichuan412888 耶，是宽敞独栋社交圈。我住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2024789134985015762",
+        "created_at": "2026-02-20T10:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024797600130744687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982450015927971840",
+              "start": 0,
+              "username": "xichuan412888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024797600130744687",
+        "in_reply_to_user_id": "1982450015927971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024789134985015762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichuan412888 耶，是宽敞独栋社交圈。我住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982450015927971840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2024789134985015762",
+        "created_at": "2026-02-20T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024789134985015762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xichuan412888/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xichuan412888/status/2024788788262900219",
+              "start": 5,
+              "url": "https://t.co/Vlvv2CJXEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024789134985015762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024788788262900219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "入好少😭 https://t.co/Vlvv2CJXEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtDPs3 |没事可以tg找我说话|tg：https://t.co/vzTjEqAHa9 |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 51,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 28,
+                "url": "https://t.co/7Qm6JtDPs3"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 90,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 67,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 168,
+          "like_count": 2102,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 214
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜是小废物(哭)｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 348,
+          "like_count": 6608,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 178
+        },
+        "username": "xichuan412888",
+        "verified": false
+      }
+    ]
+  }
+}

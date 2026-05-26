@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025551877010812928",
+        "3_2025551876977229824",
+        "3_2025551877023416320"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2025551905431388465",
+    "created_at": "2026-02-22T12:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T13:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025551905431388465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PYrEbzqCKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2025551905431388465/photo/1",
+          "media_key": "3_2025551877010812928",
+          "start": 35,
+          "url": "https://t.co/PYrEbzqCKC"
+        },
+        {
+          "display_url": "pic.x.com/PYrEbzqCKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2025551905431388465/photo/1",
+          "media_key": "3_2025551876977229824",
+          "start": 35,
+          "url": "https://t.co/PYrEbzqCKC"
+        },
+        {
+          "display_url": "pic.x.com/PYrEbzqCKC",
+          "end": 58,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2025551905431388465/photo/1",
+          "media_key": "3_2025551877023416320",
+          "start": 35,
+          "url": "https://t.co/PYrEbzqCKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025551905431388465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "既然天已经黑了，就不要在想那些乱七八糟的事情啦～\n和小17看看铁花吧 https://t.co/PYrEbzqCKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025551877010812928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw0s0da8AAprR1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2025551876977229824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw0s0VagAAHnEf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025551877023416320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw0s0gbQAAYNIE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025551877010812928",
+            "3_2025551876977229824",
+            "3_2025551877023416320"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2025551905431388465",
+        "created_at": "2026-02-22T12:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025551905431388465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYrEbzqCKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2025551905431388465/photo/1",
+              "media_key": "3_2025551877010812928",
+              "start": 35,
+              "url": "https://t.co/PYrEbzqCKC"
+            },
+            {
+              "display_url": "pic.x.com/PYrEbzqCKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2025551905431388465/photo/1",
+              "media_key": "3_2025551876977229824",
+              "start": 35,
+              "url": "https://t.co/PYrEbzqCKC"
+            },
+            {
+              "display_url": "pic.x.com/PYrEbzqCKC",
+              "end": 58,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2025551905431388465/photo/1",
+              "media_key": "3_2025551877023416320",
+              "start": 35,
+              "url": "https://t.co/PYrEbzqCKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025551905431388465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然天已经黑了，就不要在想那些乱七八糟的事情啦～\n和小17看看铁花吧 https://t.co/PYrEbzqCKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费不合格心理委员，可以把我树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 71,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 48,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 117,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 94,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 180,
+          "like_count": 2476,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 276
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

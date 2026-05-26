@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2046501653969510653",
+    "created_at": "2026-04-21T09:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046520371155992700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358385928360787981",
+          "start": 0,
+          "username": "MMRC00421826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046520371155992700",
+    "in_reply_to_user_id": "1358385928360787981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046519794174722324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMRC00421826 什么你已经买了（？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2046519779519758337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGay5YQWAAEhLe_.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2046501653969510653",
+        "created_at": "2026-04-21T09:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046520371155992700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358385928360787981",
+              "start": 0,
+              "username": "MMRC00421826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046520371155992700",
+        "in_reply_to_user_id": "1358385928360787981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046519794174722324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMRC00421826 什么你已经买了（？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046519779519758337"
+          ]
+        },
+        "author_id": "1358385928360787981",
+        "conversation_id": "2046501653969510653",
+        "created_at": "2026-04-21T09:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046519794174722324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVyOUkcVSa",
+              "end": 40,
+              "expanded_url": "https://x.com/MMRC00421826/status/2046519794174722324/photo/1",
+              "media_key": "3_2046519779519758337",
+              "start": 17,
+              "url": "https://t.co/AVyOUkcVSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046519794174722324",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046501653969510653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 😭 https://t.co/AVyOUkcVSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 649,
+          "like_count": 6459,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-07T12:03:47.000Z",
+        "description": "能不能别在神智不清时使用这个账号了我求求我自己了",
+        "id": "1358385928360787981",
+        "location": "奥沙西泮/普瑞巴林",
+        "name": "12345duya",
+        "pinned_tweet_id": "2040849647766237197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942304354733809665/E23QcrLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 80,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 101
+        },
+        "username": "MMRC00421826",
+        "verified": false
+      }
+    ]
+  }
+}

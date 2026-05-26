@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052481011468935173",
+        "3_2052481011519209475"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2052481019056431551",
+    "created_at": "2026-05-07T20:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T21:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052481019056431551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uD6oe5Xlzv",
+          "end": 82,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2052481019056431551/photo/1",
+          "media_key": "3_2052481011468935173",
+          "start": 59,
+          "url": "https://t.co/uD6oe5Xlzv"
+        },
+        {
+          "display_url": "pic.x.com/uD6oe5Xlzv",
+          "end": 82,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2052481019056431551/photo/1",
+          "media_key": "3_2052481011519209475",
+          "start": 59,
+          "url": "https://t.co/uD6oe5Xlzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052481019056431551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水水，你喜欢吗？\n\n我多希望是和你相拥在一起看这些风景\n\n你的灵魂在吗？\n\n我总感觉你在喊我？为什么还要安慰我别哭… https://t.co/uD6oe5Xlzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052481011468935173",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvgmvzXIAUIs9R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052481011519209475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvgmv_WQAMqyUM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052481011468935173",
+            "3_2052481011519209475"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2052481019056431551",
+        "created_at": "2026-05-07T20:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T21:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052481019056431551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uD6oe5Xlzv",
+              "end": 82,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2052481019056431551/photo/1",
+              "media_key": "3_2052481011468935173",
+              "start": 59,
+              "url": "https://t.co/uD6oe5Xlzv"
+            },
+            {
+              "display_url": "pic.x.com/uD6oe5Xlzv",
+              "end": 82,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2052481019056431551/photo/1",
+              "media_key": "3_2052481011519209475",
+              "start": 59,
+              "url": "https://t.co/uD6oe5Xlzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052481019056431551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水水，你喜欢吗？\n\n我多希望是和你相拥在一起看这些风景\n\n你的灵魂在吗？\n\n我总感觉你在喊我？为什么还要安慰我别哭… https://t.co/uD6oe5Xlzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2052021726804906174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 675,
+          "like_count": 6603,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

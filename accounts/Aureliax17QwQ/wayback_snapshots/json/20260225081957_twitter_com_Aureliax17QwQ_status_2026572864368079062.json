@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2026452712200745209",
+    "created_at": "2026-02-25T08:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026572864368079062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798684142722281473",
+          "start": 0,
+          "username": "shiguangji2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026572864368079062",
+    "in_reply_to_user_id": "1798684142722281473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026564414921691535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiguangji2019 不准药喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2026564386266165253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_NknXaMAUT4yV.jpg",
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2026452712200745209",
+        "created_at": "2026-02-25T08:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026572864368079062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798684142722281473",
+              "start": 0,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026572864368079062",
+        "in_reply_to_user_id": "1798684142722281473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026564414921691535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiguangji2019 不准药喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026564386266165253"
+          ]
+        },
+        "author_id": "1798684142722281473",
+        "conversation_id": "2026452712200745209",
+        "created_at": "2026-02-25T07:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026564414921691535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvQ5zp7vkR",
+              "end": 47,
+              "expanded_url": "https://x.com/shiguangji2019/status/2026564414921691535/photo/1",
+              "media_key": "3_2026564386266165253",
+              "start": 24,
+              "url": "https://t.co/QvQ5zp7vkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026564414921691535",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026452712200745209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 想要,做木乃伊用 https://t.co/QvQ5zp7vkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 136,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 194,
+          "like_count": 2761,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 342
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年，mtf，在\n。。。犯病中，脑子好乱。。不知道活下去了",
+        "id": "1798684142722281473",
+        "location": "香港。。",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 2076,
+          "like_count": 97854,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 4844
+        },
+        "username": "shiguangji2019",
+        "verified": false
+      }
+    ]
+  }
+}

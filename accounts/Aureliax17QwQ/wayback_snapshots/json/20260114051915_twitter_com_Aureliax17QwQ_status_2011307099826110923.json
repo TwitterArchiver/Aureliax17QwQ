@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2011306915398369478",
+    "created_at": "2026-01-14T05:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T06:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011307099826110923"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011307099826110923",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011306915398369478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是什么啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2011306911489277957",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-mY-smbQAU9TU3.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2011306915398369478",
+        "created_at": "2026-01-14T05:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T06:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011307099826110923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011307099826110923",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011306915398369478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是什么啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011306911489277957"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2011306915398369478",
+        "created_at": "2026-01-14T05:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T06:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011306915398369478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1980651637673951232",
+              "start": 22,
+              "username": "NeuroSaki987"
+            },
+            {
+              "end": 48,
+              "id": "1932434375955857409",
+              "start": 36,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 67,
+              "id": "1972363680198361088",
+              "start": 55,
+              "username": "dnshu135734"
+            },
+            {
+              "end": 86,
+              "id": "1946843278361710592",
+              "start": 74,
+              "username": "youshiko112"
+            },
+            {
+              "end": 96,
+              "id": "1605245047590780928",
+              "start": 87,
+              "username": "djx00919"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010372012460699648/ElgHr2OK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010372012460699648/ElgHr2OK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/JY6bJfB9gf"
+            },
+            {
+              "display_url": "pic.x.com/jmHikrCUzr",
+              "end": 148,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2011306915398369478/photo/1",
+              "media_key": "3_2011306911489277957",
+              "start": 125,
+              "url": "https://t.co/jmHikrCUzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011306915398369478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @NeuroSaki987 @ena1_mizuki\n👰 配偶: @dnshu135734\n👶 孩子: @youshiko112 @djx00919\n\n➡️ https://t.co/JY6bJfB9gf https://t.co/jmHikrCUzr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交盆友…｜mtf🏳️‍⚧️｜重抑｜还活着｜infp｜https://t.co/vzTjEqAHa9(虽然没人来但是先挂这)｜欢迎来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 56,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 33,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "Aureliax17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 122,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 59
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

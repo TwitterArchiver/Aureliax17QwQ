@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011077588178124802"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2011077604758208938",
+    "created_at": "2026-01-13T14:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T15:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011077604758208938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FI9b0c5Bya",
+          "end": 37,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2011077604758208938/photo/1",
+          "media_key": "3_2011077588178124802",
+          "start": 14,
+          "url": "https://t.co/FI9b0c5Bya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011077604758208938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人的人生又是什么样子呢？ https://t.co/FI9b0c5Bya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011077588178124802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jIaUsbQAIa6aj.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011077588178124802"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2011077604758208938",
+        "created_at": "2026-01-13T14:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011077604758208938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FI9b0c5Bya",
+              "end": 37,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2011077604758208938/photo/1",
+              "media_key": "3_2011077588178124802",
+              "start": 14,
+              "url": "https://t.co/FI9b0c5Bya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011077604758208938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人的人生又是什么样子呢？ https://t.co/FI9b0c5Bya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交盆友…/跨/重抑/还活着",
+        "id": "1611246341728120835",
+        "name": "Aureliax17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 113,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

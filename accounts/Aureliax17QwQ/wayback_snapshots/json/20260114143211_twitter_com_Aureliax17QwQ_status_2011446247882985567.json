@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2011443757175242985",
+    "created_at": "2026-01-14T14:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011446247882985567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011446247882985567",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011443757175242985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 比我高很多！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2011443753006022657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-oVb6-aQAEmOdS.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2011443757175242985",
+        "created_at": "2026-01-14T14:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011446247882985567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011446247882985567",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011443757175242985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 比我高很多！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011443753006022657"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011443757175242985",
+        "created_at": "2026-01-14T14:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011443757175242985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 44,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2009349582590021632/BF74gcgm?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009349582590021632/BF74gcgm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/qdNFRCwP9x"
+            },
+            {
+              "display_url": "pic.x.com/kGGczxYkLR",
+              "end": 68,
+              "expanded_url": "https://x.com/mwdxj29477/status/2011443757175242985/photo/1",
+              "media_key": "3_2011443753006022657",
+              "start": 45,
+              "url": "https://t.co/kGGczxYkLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011443757175242985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥236.93\n\n➡️ https://t.co/qdNFRCwP9x https://t.co/kGGczxYkLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "很孤单哦，很想交盆友…｜mtf🏳️‍⚧️｜重抑｜还活着｜infp｜https://t.co/vzTjEqAHa9(虽然没人来但是先挂这)｜欢迎来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 56,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 33,
+                "url": "https://t.co/vzTjEqAHa9"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "Aureliax17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 119,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 68
+        },
+        "username": "Aureliax17QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "|男孩子哦~ 生产日期:2011.11.13/\n| trans友好/INFP-T/性取向xnn和xyn/情绪不稳定/\n|坐标汉川/初二牲/家长放养/\n|161 52/繁简精通/政治立场偏左/\n|欢迎互fo~/\n爱好:翻墙/地理/Minecraft\nB站:紧张の肥波\nTG:mwdxj29477\nQQ:1217574003",
+        "id": "1970857021588262912",
+        "location": "你家门口「找不到我的喵~」",
+        "name": "Mwdxj29477_🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211188182003712/kv7-1bK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 122,
+          "like_count": 1411,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 57
+        },
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

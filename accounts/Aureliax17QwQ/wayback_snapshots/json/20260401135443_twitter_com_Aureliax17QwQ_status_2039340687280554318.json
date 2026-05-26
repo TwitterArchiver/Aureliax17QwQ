@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2038865582968479830",
+    "created_at": "2026-04-01T13:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039340687280554318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968702872553721856",
+          "start": 0,
+          "username": "om07935340385"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039340687280554318",
+    "in_reply_to_user_id": "1968702872553721856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039337079969398957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@om07935340385 还是不知道好哦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2038865582968479830",
+        "created_at": "2026-04-01T13:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039340687280554318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968702872553721856",
+              "start": 0,
+              "username": "om07935340385"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039340687280554318",
+        "in_reply_to_user_id": "1968702872553721856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039337079969398957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@om07935340385 还是不知道好哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968702872553721856",
+        "conversation_id": "2038865582968479830",
+        "created_at": "2026-04-01T13:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039337079969398957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039337079969398957",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038865582968479830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ o是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜🏳️‍⚧️｜06｜重抑｜INFP｜已炸柜｜💊｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最爱的小孩@dnshu135734｜我永远爱你们❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 95,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 72,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 243,
+          "like_count": 5508,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-18T15:46:42.000Z",
+        "description": "🍥含一点糖的小男娘，喜欢cos，喜欢穿漂亮，可爱，色气的衣服，178cm 133斤(正在减肥中）喜欢小男娘和可爱小男生。性格社恐+粘人。希望可以交到友好的好朋友。",
+        "id": "1968702872553721856",
+        "location": "Kwai Tsing District, Hong Kong",
+        "name": "warmth",
+        "pinned_tweet_id": "2023794443191771543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022598486894821376/SeaVHcQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 158,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 90
+        },
+        "username": "om07935340385",
+        "verified": false
+      }
+    ]
+  }
+}
