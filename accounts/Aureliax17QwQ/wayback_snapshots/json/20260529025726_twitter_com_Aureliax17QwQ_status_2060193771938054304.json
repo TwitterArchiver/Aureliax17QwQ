@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060193762521796612"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2060193771938054304",
+    "created_at": "2026-05-29T02:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060193771938054304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qK0Q0Gfrdt",
+          "end": 44,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2060193771938054304/photo/1",
+          "media_key": "3_2060193762521796612",
+          "start": 21,
+          "url": "https://t.co/qK0Q0Gfrdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060193771938054304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当有人争论是可口好喝还是百事好喝时，我： https://t.co/qK0Q0Gfrdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2060193762521796612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdHT8eWUAQrCPy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060193762521796612"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2060193771938054304",
+        "created_at": "2026-05-29T02:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060193771938054304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qK0Q0Gfrdt",
+              "end": 44,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2060193771938054304/photo/1",
+              "media_key": "3_2060193762521796612",
+              "start": 21,
+              "url": "https://t.co/qK0Q0Gfrdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060193771938054304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当有人争论是可口好喝还是百事好喝时，我： https://t.co/qK0Q0Gfrdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 613,
+          "like_count": 6639,
+          "listed_count": 7,
+          "media_count": 458,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

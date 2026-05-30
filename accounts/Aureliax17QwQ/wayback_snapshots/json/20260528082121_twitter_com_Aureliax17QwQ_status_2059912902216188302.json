@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059912880623910916"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2059912902216188302",
+    "created_at": "2026-05-28T08:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059912902216188302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q6SeAG8kg9",
+          "end": 66,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2059912902216188302/photo/1",
+          "media_key": "3_2059912880623910916",
+          "start": 43,
+          "url": "https://t.co/Q6SeAG8kg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059912902216188302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老板，给我来一碗猪脚面，要几根肠和几根蛋再在浇上一勺浓浓的汤汁，还有一杯冰镇的冰红茶 https://t.co/Q6SeAG8kg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2059912880623910916",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZH2d3XAAQDQvN.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059912880623910916"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2059912902216188302",
+        "created_at": "2026-05-28T08:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059912902216188302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6SeAG8kg9",
+              "end": 66,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059912902216188302/photo/1",
+              "media_key": "3_2059912880623910916",
+              "start": 43,
+              "url": "https://t.co/Q6SeAG8kg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912902216188302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板，给我来一碗猪脚面，要几根肠和几根蛋再在浇上一勺浓浓的汤汁，还有一杯冰镇的冰红茶 https://t.co/Q6SeAG8kg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 611,
+          "like_count": 6632,
+          "listed_count": 7,
+          "media_count": 447,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

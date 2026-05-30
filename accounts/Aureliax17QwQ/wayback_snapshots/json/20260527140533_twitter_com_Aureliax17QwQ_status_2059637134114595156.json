@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059636282532483072"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2059637134114595156",
+    "created_at": "2026-05-27T14:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:02:12.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059636290526802095",
+      "2059637134114595156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0ACUkd5nh",
+          "end": 39,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2059637134114595156/photo/1",
+          "media_key": "3_2059636282532483072",
+          "start": 16,
+          "url": "https://t.co/P0ACUkd5nh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059637134114595156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将提名此图为猫咪最佳cos图 https://t.co/P0ACUkd5nh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2059636282532483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVMSVra0AAVjA1.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059636282532483072"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2059636290526802095",
+        "created_at": "2026-05-27T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:02:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059636290526802095",
+          "2059637134114595156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MIjF0FCmy",
+              "end": 40,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059636290526802095/photo/1",
+              "media_key": "3_2059636282532483072",
+              "start": 17,
+              "url": "https://t.co/2MIjF0FCmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059636290526802095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将为提名此图 猫咪最佳cos图 https://t.co/2MIjF0FCmy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059636282532483072"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2059637134114595156",
+        "created_at": "2026-05-27T14:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:02:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059636290526802095",
+          "2059637134114595156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0ACUkd5nh",
+              "end": 39,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059637134114595156/photo/1",
+              "media_key": "3_2059636282532483072",
+              "start": 16,
+              "url": "https://t.co/P0ACUkd5nh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059637134114595156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将提名此图为猫咪最佳cos图 https://t.co/P0ACUkd5nh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 691,
+          "like_count": 6619,
+          "listed_count": 7,
+          "media_count": 427,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

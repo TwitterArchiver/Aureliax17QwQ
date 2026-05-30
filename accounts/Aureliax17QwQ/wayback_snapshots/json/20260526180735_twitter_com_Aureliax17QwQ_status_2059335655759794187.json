@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059335648008617984"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2059335655759794187",
+    "created_at": "2026-05-26T18:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059335655759794187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGOgWID7xS",
+          "end": 101,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2059335655759794187/photo/1",
+          "media_key": "3_2059335648008617984",
+          "start": 78,
+          "url": "https://t.co/OGOgWID7xS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059335655759794187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识：地图可以单指缩放\n\n苹果地图如何单指缩放地图\n🔸 地图单指缩放：双击并拖拽\n单指双击屏幕，第二击时手指不要抬起（关键）\n然后在屏幕上向上或向下拖拽 https://t.co/OGOgWID7xS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1913,
+        "media_key": "3_2059335648008617984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ63GzaQAA3OFJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059335648008617984"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2059335655759794187",
+        "created_at": "2026-05-26T18:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059335655759794187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGOgWID7xS",
+              "end": 101,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059335655759794187/photo/1",
+              "media_key": "3_2059335648008617984",
+              "start": 78,
+              "url": "https://t.co/OGOgWID7xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059335655759794187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：地图可以单指缩放\n\n苹果地图如何单指缩放地图\n🔸 地图单指缩放：双击并拖拽\n单指双击屏幕，第二击时手指不要抬起（关键）\n然后在屏幕上向上或向下拖拽 https://t.co/OGOgWID7xS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2988,
+          "following_count": 690,
+          "like_count": 6614,
+          "listed_count": 7,
+          "media_count": 404,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

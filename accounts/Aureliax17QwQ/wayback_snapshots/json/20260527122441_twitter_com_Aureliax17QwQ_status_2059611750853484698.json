@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059611713293426691"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2059611750853484698",
+    "created_at": "2026-05-27T12:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059611750853484698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J19Uc1cIuf",
+          "end": 41,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2059611750853484698/photo/1",
+          "media_key": "3_2059611713293426691",
+          "start": 18,
+          "url": "https://t.co/J19Uc1cIuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059611750853484698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "致敬火攻大师，日本烧烤王，李梅将军 https://t.co/J19Uc1cIuf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059611713293426691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU18OIWoAMSLRv.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059611713293426691"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2059611750853484698",
+        "created_at": "2026-05-27T12:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059611750853484698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J19Uc1cIuf",
+              "end": 41,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059611750853484698/photo/1",
+              "media_key": "3_2059611713293426691",
+              "start": 18,
+              "url": "https://t.co/J19Uc1cIuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059611750853484698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬火攻大师，日本烧烤王，李梅将军 https://t.co/J19Uc1cIuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 690,
+          "like_count": 6618,
+          "listed_count": 7,
+          "media_count": 422,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}
