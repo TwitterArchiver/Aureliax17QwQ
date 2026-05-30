@@ -5,5 +5,16 @@
   "location": "",
   "link": "t.me/dnshu135734Aureliax17",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "t.me/Aureliax17",
+        "end": 47,
+        "expanded_url": "http://t.me/Aureliax17",
+        "start": 24,
+        "url": "https://t.co/vzTjEqAHa9"
+      }
+    ]
+  }
 }
