@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2054120857275171110",
+    "created_at": "2026-06-01T16:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061485053780357441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980651637673951232",
+          "start": 0,
+          "username": "NeuroSaki987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061485053780357441",
+    "in_reply_to_user_id": "1980651637673951232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054120857275171110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroSaki987 哇，好耶，17回头也用！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2054120849180180480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG0B3UbwAA3Q5K.jpg",
+        "width": 1580
+      },
+      {
+        "height": 980,
+        "media_key": "3_2054120849180082176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG0B3UaQAAkEy4.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2054120857275171110",
+        "created_at": "2026-06-01T16:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061485053780357441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980651637673951232",
+              "start": 0,
+              "username": "NeuroSaki987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061485053780357441",
+        "in_reply_to_user_id": "1980651637673951232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054120857275171110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroSaki987 哇，好耶，17回头也用！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054120849180180480",
+            "3_2054120849180082176"
+          ]
+        },
+        "author_id": "1980651637673951232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054120857275171110",
+        "created_at": "2026-05-12T08:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054120857275171110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 179,
+              "start": 163,
+              "tag": "NekoTaskManager"
+            }
+          ],
+          "urls": [
+            {
+              "description": "更新项目 NekoTaskManager(x64) v1.2.0 我们优化了用户体验，并晒了会太阳~ 修复了GPU计数问题 修复了过度拉伸导致的渲染卡死的问题 添加了一系列的检测指标 添加整理工作集与清理内存功能 修复UI错误问题 修复了一些已知的安全问题",
+              "display_url": "github.com/NeuroSaki987/N…",
+              "end": 161,
+              "expanded_url": "https://github.com/NeuroSaki987/NekoTaskManager/releases/tag/v1.2.0",
+              "start": 138,
+              "status": 200,
+              "title": "Release NekoTaskManager(x64) v1.2.0 · NeuroSaki987/NekoTaskManager",
+              "unwound_url": "https://github.com/NeuroSaki987/NekoTaskManager/releases/tag/v1.2.0",
+              "url": "https://t.co/lQk8t5SThZ"
+            },
+            {
+              "display_url": "pic.x.com/D7L724NodF",
+              "end": 203,
+              "expanded_url": "https://x.com/NeuroSaki987/status/2054120857275171110/photo/1",
+              "media_key": "3_2054120849180180480",
+              "start": 180,
+              "url": "https://t.co/D7L724NodF"
+            },
+            {
+              "display_url": "pic.x.com/D7L724NodF",
+              "end": 203,
+              "expanded_url": "https://x.com/NeuroSaki987/status/2054120857275171110/photo/1",
+              "media_key": "3_2054120849180082176",
+              "start": 180,
+              "url": "https://t.co/D7L724NodF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054120857275171110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 774,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "NekoTaskManager(x64) v1.2.0 更新\n---\n- 优化了用户体验，并晒了会太阳~\n- 修复了GPU计数问题\n- 修复了过度拉伸导致的渲染卡死的问题\n- 添加了更多检测指标\n- 添加整理工作集与清理内存功能\n- 修复了一些已知的安全问题\n---\n下载：\nhttps://t.co/lQk8t5SThZ\n\n#NekoTaskManager https://t.co/D7L724NodF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3267,
+          "following_count": 620,
+          "like_count": 2,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "mtf?/x｜birth 2008 ｜ INTP ｜HRT since 2025 ｜ 家暴党💔｜ 想找人聊天，单纯骂我也可以啊 ｜https://t.co/RptcluXaOp ｜好多管道符哎｜深度学习与AI开发，信息安全，CTF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neurosaki987",
+                "end": 88,
+                "expanded_url": "https://ngl.link/neurosaki987",
+                "start": 65,
+                "url": "https://t.co/RptcluXaOp"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "LiuyingWeb Inc. Shanghai",
+        "name": "Neuro Saki 🍥",
+        "pinned_tweet_id": "2054120857275171110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 344,
+          "like_count": 2064,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 855
+        },
+        "username": "NeuroSaki987",
+        "verified": false
+      }
+    ]
+  }
+}

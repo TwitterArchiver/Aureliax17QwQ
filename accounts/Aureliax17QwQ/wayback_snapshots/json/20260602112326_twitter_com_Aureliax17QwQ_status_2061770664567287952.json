@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061770632577335296"
+      ]
+    },
+    "author_id": "1611246341728120835",
+    "conversation_id": "2061770664567287952",
+    "created_at": "2026-06-02T11:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061770664567287952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/acHTwFTvT6",
+          "end": 31,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2061770664567287952/photo/1",
+          "media_key": "3_2061770632577335296",
+          "start": 8,
+          "url": "https://t.co/acHTwFTvT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061770664567287952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看来老板耐劈砍 https://t.co/acHTwFTvT6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2061770632577335296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzhd3MawAAZeCX.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061770632577335296"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2061770664567287952",
+        "created_at": "2026-06-02T11:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061770664567287952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acHTwFTvT6",
+              "end": 31,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2061770664567287952/photo/1",
+              "media_key": "3_2061770632577335296",
+              "start": 8,
+              "url": "https://t.co/acHTwFTvT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061770664567287952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来老板耐劈砍 https://t.co/acHTwFTvT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3280,
+          "following_count": 621,
+          "like_count": 6720,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

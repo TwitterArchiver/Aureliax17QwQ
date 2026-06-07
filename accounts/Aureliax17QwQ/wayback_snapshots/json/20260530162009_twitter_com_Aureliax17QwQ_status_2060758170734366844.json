@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1611246341728120835",
+    "conversation_id": "2060669536828018833",
+    "created_at": "2026-05-30T16:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060758170734366844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1672461374180450305",
+          "start": 0,
+          "username": "6mhzph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060758170734366844",
+    "in_reply_to_user_id": "1672461374180450305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060669536828018833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6mhzph 摸摸inia，一起前往未来吧！抱抱哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2060669536828018833",
+        "created_at": "2026-05-30T16:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060758170734366844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1672461374180450305",
+              "start": 0,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060758170734366844",
+        "in_reply_to_user_id": "1672461374180450305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060669536828018833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6mhzph 摸摸inia，一起前往未来吧！抱抱哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672461374180450305",
+        "conversation_id": "2060669536828018833",
+        "created_at": "2026-05-30T10:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060669536828018833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060669536828018833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想抚摸过去的自己\n告诉他没事呢\n已经走到现在了\n要是想哭就哭出来\n不用再忍着了\n还有不要再做后悔的事了哦\n虽然错过了这么多\n未来的日子还要一起走呢\n\n过去的自己，感谢你没有放弃\n我会牵着你的手，不再放开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 613,
+          "like_count": 6663,
+          "listed_count": 6,
+          "media_count": 486,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想成为大家的情绪垃圾桶🗑️｜🇮 🇳 🇫 🇵 / 互fo请私 / #树洞 / 精神病人 / 缺爱ing / 大一休学 / 艾拉厨 / ✝️自傷重度依賴✝️｜下面有好玩的喵↓｜卡哇伊森森:@senzhiwu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "树洞"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO9vMm"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距离520km",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057702761849110528/kih3Yb0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 273,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/U7b6ZO9vMm",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}
