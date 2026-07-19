@@ -1,20 +1,33 @@
 {
   "name": "海月水母x17🍥",
   "username": "@Aureliax17QwQ",
-  "bio": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：t.me/dnshuiarueliax…｜最爱的小孩@dnshu135734｜小号是@18nuun",
+  "bio": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：http://t.me/dnshuiarueliax17｜最爱的小孩@dnshu135734｜小号是@18nuun",
   "location": "",
-  "link": "t.me/dnshu135734Aureliax17",
+  "link": "http://t.me/dnshu135734Aureliax17",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "bio_entities": {
+    "mentions": [
+      {
+        "end": 93,
+        "start": 81,
+        "username": "dnshu135734"
+      },
+      {
+        "end": 104,
+        "start": 97,
+        "username": "18nuun"
+      }
+    ],
     "urls": [
       {
-        "display_url": "t.me/Aureliax17",
-        "end": 47,
-        "expanded_url": "http://t.me/Aureliax17",
-        "start": 24,
-        "url": "https://t.co/vzTjEqAHa9"
+        "display_url": "t.me/dnshuiarueliax…",
+        "end": 75,
+        "expanded_url": "http://t.me/dnshuiarueliax17",
+        "start": 52,
+        "url": "https://t.co/kQa2nQ8PrH"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg"
 }
